@@ -63,7 +63,13 @@
         font-weight:normal;
         font-style:normal;
 }
-
+@font-face {
+    
+    font-family:"lato";
+    src: url(../fonts/sans-serif/lato-regular.ttf) format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
 /* Page Layout */
 
 .main-section {
